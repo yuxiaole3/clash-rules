@@ -220,10 +220,6 @@ rules:
   - MATCH,DIRECT
 ```
 
-## 激赏 | Donation
-
-- **比特币（BTC）bech32 地址**：bc1qfe4nxcanet4w4ph8pf6qqyf263y68vw26nv9j9
-- **比特币（BTC）地址**：3PRyneb1D7jFFBakAaJiCRSsxsXAtMr7LN
 
 ## 致谢
 
@@ -235,6 +231,3 @@ rules:
 - [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
 - [@17mon/china_ip_list](https://github.com/17mon/china_ip_list)
 
-## 项目 Star 数增长趋势
-
-[![Stargazers over time](https://starchart.cc/Loyalsoldier/clash-rules.svg)](https://starchart.cc/Loyalsoldier/clash-rules)
